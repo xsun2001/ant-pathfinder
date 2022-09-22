@@ -1,0 +1,17 @@
+{
+  "name": "ant-pathfinder",
+  "version": "1.0.0",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0",
+    "querystring-es3": "^0.2.1"
+  },
+  "dependencies": {
+    "@pixi/graphics-extras": "^6.5.3",
+    "pixi.js": "^6.5.3"
+  }
+}
